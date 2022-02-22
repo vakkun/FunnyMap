@@ -1,2 +1,2 @@
 # FunnyMap
-A Quality Of Life mod for hypixel skyblock
+Dungeon map mod for Hypixel Skyblock. Open settings with /fmap
